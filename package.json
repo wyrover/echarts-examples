@@ -1,0 +1,26 @@
+{
+  "name": "echarts-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/static/bundle.js",
+  "scripts": {
+    "dev": "microenvi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyrover/echarts-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyrover/echarts-examples/issues"
+  },
+  "homepage": "https://github.com/wyrover/echarts-examples#readme",
+  "devDependencies": {
+    "microenvi": "^0.2.0"
+  },
+  "dependencies": {
+    "echarts": "^4.2.0-rc.2"
+  }
+}
